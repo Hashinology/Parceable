@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parceable</string>
+    <string name="name">name</string>
+    <string name="gender">gender</string>
+    <string name="save_to_shared_prefs">save_to_shared_prefs</string>
+    <string name="go_to_second_for_result">go_to_second_for_result</string>
+    <string name="shared_data">shared_data</string>
+    <string name="go_to_second">go_to_second</string>
+    <string name="do_something">do_something</string>
+</resources>
